@@ -35,3 +35,5 @@
 
 ## Ссылка на репозиторий
 https://github.com/SvetlanaRomanova1/my-summary-react.git
+## Ссылка на проект 
+https://svetlanaromanova1.github.io/my-summary-react/
