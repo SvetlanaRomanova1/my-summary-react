@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-summary-react/static/css/main.05dc61c8.css",
+    "main.js": "/my-summary-react/static/js/main.5aaf6f8d.js",
+    "static/js/787.1d38615d.chunk.js": "/my-summary-react/static/js/787.1d38615d.chunk.js",
+    "static/media/d.png": "/my-summary-react/static/media/d.5c80da11d262a32dc7ad.png",
+    "static/media/фото.jpeg": "/my-summary-react/static/media/фото.17419bed5937d0147d0d.jpeg",
+    "static/media/course.png": "/my-summary-react/static/media/course.269b15756b865baf903a.png",
+    "static/media/telegram.svg": "/my-summary-react/static/media/telegram.04cf4804f41145386b50aed7306f8116.svg",
+    "index.html": "/my-summary-react/index.html",
+    "static/media/phone.svg": "/my-summary-react/static/media/phone.ddfcc7017e755e1fd7c1d2c934678adf.svg",
+    "static/media/business.svg": "/my-summary-react/static/media/business.b9a218ac593bc7cf743d37b4e236bc9d.svg",
+    "static/media/mail.svg": "/my-summary-react/static/media/mail.8f21d0774be0fab32a87c47f91c495f5.svg",
+    "main.05dc61c8.css.map": "/my-summary-react/static/css/main.05dc61c8.css.map",
+    "main.5aaf6f8d.js.map": "/my-summary-react/static/js/main.5aaf6f8d.js.map",
+    "787.1d38615d.chunk.js.map": "/my-summary-react/static/js/787.1d38615d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05dc61c8.css",
+    "static/js/main.5aaf6f8d.js"
+  ]
+}
