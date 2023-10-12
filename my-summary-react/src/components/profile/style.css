@@ -1,0 +1,55 @@
+.profile-avatar{
+    width: 157px;
+    height: 196px;
+    margin: 41px;
+    cursor: pointer;
+    transition: 0.3s linear;
+}
+
+.profile-avatar:hover{
+    opacity: 0.6;
+}
+
+.profile{
+    width: 360px;
+    background-color:cornflowerblue;
+    height: 1100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile-avatar-container{
+    margin-bottom: 10px;
+}
+
+.profile-contacts{
+    width: 100%;
+}
+
+.profile-title{
+    margin: 0;
+    background: gray;
+    padding-left: 21px;
+}
+
+.profile-links{
+    padding-left: 21px;
+    padding-right: 42px;
+}
+
+.profile-link{
+    list-style: none;
+    margin-bottom: 10px;
+    display: flex;
+    gap: 6px;
+}
+
+.profile-icon{
+    width: 20px;
+    height: 20px;
+}
+
+.profile-link-skills{
+    margin-bottom: 5px;
+}

@@ -1,0 +1,54 @@
+.courses{
+    display: flex;
+    align-items: center;
+    width: 891px;
+}
+
+.courses-line{
+    flex: 73%;
+    height: 2px;
+    background-color: #262626;
+    margin: 0 6px;
+}
+
+.courses-icon{
+    border: 2px solid #002200;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.courses-wrapper{
+    display: flex;
+    font-family: Inter, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 18px;
+    margin-top: 22px;
+}
+
+.courses-title{
+    display: flex;
+    margin: 6px 0 0 33px;
+}
+
+.courses-subtitle{
+    margin-left: 32px;
+    font-family: Inter, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 18px;
+}
+
+.course-diploma-image {
+    width: 300px;
+    height: 200px;
+    cursor: pointer;
+    transition: opacity 0.4s ease-in ;
+    margin-left: 45px;
+}

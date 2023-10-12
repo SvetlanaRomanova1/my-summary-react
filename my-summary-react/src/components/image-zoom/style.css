@@ -1,0 +1,7 @@
+.image-container {
+    transition: transform 0.3s;
+}
+
+.image-container.zoomed {
+    transform: scale(2); /* Увеличение в 1.5 раза (можно установить другое значение) */
+}

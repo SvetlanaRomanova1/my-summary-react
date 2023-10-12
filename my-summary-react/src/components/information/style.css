@@ -1,0 +1,28 @@
+.info{
+    width: 100%;
+}
+
+.info-title{
+    font-family: Inter, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 15px;
+}
+
+/*.info-links{*/
+/*    border-bottom: 1px solid rgba(84, 84, 84, 0.7);*/
+/*}*/
+
+.info-link{
+    margin: 8px 0;
+}
+
+
+
+
+
+
+
+
+
